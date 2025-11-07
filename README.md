@@ -147,7 +147,7 @@ If you find Cambrian-S useful for your research and applications, please cite us
 ```bibtex
 @article{yang2025cambrian,
   title={Cambrian-S: Towards Spatial Supersensing in Video},
-  author={Yang, Shusheng and Yang, Jihan and Huang, Pinzhi and Brown, Ellis and Yang, Zihao and Yu, Yue and Tong, Shengbang and Zheng, Zihan and Xu, Yifan and Wang, Muhan and Lu, Danhao and Fergus, Rob and LeCun, Yann and Fei-Fei, Li and Xie, Saining},
+  author={Yang, Shusheng and Yang, Jihan and Huang, Pinzhi and Brown, Ellis and Yang, Zihao and Yu, Yue and Tong, Shengbang and Zheng, Zihan and Xu, Yifan and Wang, Muhan and Lu, Daohan and Fergus, Rob and LeCun, Yann and Fei-Fei, Li and Xie, Saining},
   journal={arXiv preprint arXiv:2511.04670},
   year={2025}
 }
