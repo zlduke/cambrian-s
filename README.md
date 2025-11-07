@@ -10,8 +10,8 @@
 <a href="https://arxiv.org/abs/2511.04670" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Cambrian--S-red?logo=arxiv" height="25" />
 </a>
-<a href="#" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/🌎_Website-coming--soon-blue.svg" height="25" />
+<a href="#" target="https://cambrian-mllm.github.io">
+    <img alt="Website" src="https://img.shields.io/badge/🌎_Website-cambrian--mllm.github.io-blue" height="25" />
 </a>
 <a href="https://huggingface.co/collections/nyu-visionx/cambrian-s-models" target="_blank">
     <img alt="HF Model: Cambrian-S" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-Cambrian--S-ffc107?color=ffc107&logoColor=white" height="25" />
