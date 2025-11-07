@@ -157,3 +157,5 @@ If you find Cambrian-S useful for your research and applications, please cite us
 
 - [Cambrian-1](https://github.com/cambrian-mllm/cambrian): A Fully Open, Vision-Centric Exploration of Multimodal LLMs
 - [Thinking in Space](https://vision-x-nyu.github.io/thinking-in-space.github.io/): How Multimodal Large Language Models See, Remember and Recall Spaces - Introduces VSI-Bench for evaluating visual-spatial intelligence
+- [SIMS-V](https://ellisbrown.github.io/sims-v): Simulated Instruction-Tuning for Spatial Video Understanding
+- [Test-Set Stress-Test](https://vision-x-nyu.github.io/test-set-training): Benchmark Designers Should "Train on the Test Set" to Expose Exploitable Non-Visual Shortcuts
