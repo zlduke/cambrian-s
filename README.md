@@ -142,14 +142,42 @@ For detailed benchmark results, please refer to the [General Model Performance](
 
 ## Citation
 
-If you find Cambrian-S useful for your research and applications, please cite using this BibTeX:
+If you find our work useful for your research, please consider to cite our work:
 
 ```bibtex
-@article{yang2025cambrian,
+@article{yang2025cambrians,
   title={Cambrian-S: Towards Spatial Supersensing in Video},
   author={Yang, Shusheng and Yang, Jihan and Huang, Pinzhi and Brown, Ellis and Yang, Zihao and Yu, Yue and Tong, Shengbang and Zheng, Zihan and Xu, Yifan and Wang, Muhan and Lu, Daohan and Fergus, Rob and LeCun, Yann and Fei-Fei, Li and Xie, Saining},
   journal={arXiv preprint arXiv:2511.04670},
   year={2025}
+}
+
+@article{brown2025shortcuts,
+  author = {Brown, Ellis and Yang, Jihan and Yang, Shusheng and Fergus, Rob and Xie, Saining},
+  title = {Benchmark Designers Should ``Train on the Test Set'' to Expose Exploitable Non-Visual Shortcuts},
+  journal = {arXiv preprint arXiv:2511.04655},
+  year = {2025}
+}
+
+@article{brown2025simsv,
+  title   =  { {SIMS-V}: Simulated Instruction-Tuning for Spatial Video Understanding },
+  author  =  { Brown, Ellis and Ray, Arijit and Krishna, Ranjay and Girshick, Ross and Fergus, Rob and Xie, Saining },
+  journal =  { arXiv preprint arXiv:2511.04668 },
+  year    =  { 2025 }
+}
+
+@article{yang2024think,
+    title={{Thinking in Space: How Multimodal Large Language Models See, Remember and Recall Spaces}},
+    author={Yang, Jihan and Yang, Shusheng and Gupta, Anjali W. and Han, Rilyn and Fei-Fei, Li and Xie, Saining},
+    year={2024},
+    journal={arXiv preprint arXiv:2412.14171},
+}
+
+@article{tong2024cambrian,
+  title={{Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs}},
+  author={Tong, Shengbang and Brown, Ellis and Wu, Penghao and Woo, Sanghyun and Middepogu, Manoj and Akula, Sai Charitha and Yang, Jihan and Yang, Shusheng, and Iyer, Adithya and Pan, Xichen and Wang, Austin and Fergus, Rob and LeCun, Yann and Xie, Saining},
+  journal={arXiv preprint arXiv:2406.16860},
+  year={2024}
 }
 ```
 
