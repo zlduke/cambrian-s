@@ -34,7 +34,7 @@
     <a href="#" target="_blank">Zihan Zheng</a>,
     <a href="https://www.yfxu.com/" target="_blank">Yifan Xu</a>,
     <a href="https://github.com/wang-muhan" target="_blank">Muhan Wang</a>,
-    <a href="#" target="_blank">Danhao Lu</a>,
+    <a href="https://daohanlu.github.io/" target="_blank">Daohan Lu</a>,
     <br>
     <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php" target="_blank">Rob Fergus</a>,
     <a href="http://yann.lecun.com/" target="_blank">Yann LeCun</a>,
@@ -54,14 +54,20 @@
 - [Nov 6, 2025] 🔥 We release VSI-590K, a dataset curated for spatial sensing.
 
 ## Contents
-- [Installation](#installation)
-- [Cambrian-S Weights](#cambrian-s-weights)
-- [VSI-590K Dataset](#vsi-590k-dataset)
-- [Train](#train)
-- [Evaluation](#evaluation)
-- [Citation](#citation)
-- [License](#license)
-- [Related Projects](#related-projects)
+- [ *Cambrian-S*: Towards Spatial Supersensing in Video](#-cambrian-s-towards-spatial-supersensing-in-video)
+  - [Release](#release)
+  - [Contents](#contents)
+  - [Cambrian-S Weights](#cambrian-s-weights)
+    - [General Model Performance](#general-model-performance)
+    - [VSI-SUPER Performance](#vsi-super-performance)
+    - [Model Card](#model-card)
+      - [Model Trained with Predictive Sensing](#model-trained-with-predictive-sensing)
+      - [Standard MLLM Models](#standard-mllm-models)
+  - [VSI-590K Dataset](#vsi-590k-dataset)
+  - [Train](#train)
+  - [Evaluation](#evaluation)
+  - [Citation](#citation)
+  - [Related Projects](#related-projects)
 
 ## Cambrian-S Weights
 
