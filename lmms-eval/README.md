@@ -105,6 +105,19 @@ bash eval_vsc.sh
 bash eval_vsc_streaming.sh 
 ```
 
+## Demo
+
+We also provide one demo script with which you can quickly try our model on both image and video, hope it helps!
+
+```bash
+
+# Image QA
+python demo.py --question "Please describe this image in detail" --input_image ../figs/feature.png --max_new_tokens 512
+
+# Video QA
+python demo.py --question "Please describe this video in detail" --input_video $VIDEO_PATH --max_new_tokens 512
+```
+
 ## Acknowledgement
 
 We sincerely thank [LMMS-EVAL](https://github.com/EvolvingLMMs-Lab/lmms-eval) for providing this convenient evaluation toolkit.
